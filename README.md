@@ -7,7 +7,7 @@ CS student
 I am a 3rd year irregular CS student who does not have a project atm.
 
 * 🌍  I'm based in Oslo lolol i wish
-* ✉️  You can contact me at [@birdabo on discord](mailto:@birdabo on discord)
+* ✉️  You can contact me at [@birdabo on discord]
 * 🧠  I'm learning c.
 * ⚡  I watch anime, dont tell anyone.
 
