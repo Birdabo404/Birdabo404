@@ -27,6 +27,6 @@ I am a 3rd year irregular CS student who does not have a project atm.
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/birdabo404"><img src="https://github-readme-stats.vercel.app/api?username=birdabo404&show_icons=true&hide=stars,prs,issues,&title_color=facc15&text_color=64748b&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="birdabo404's GitHub stats" /></a>
+<a href="http://www.github.com/birdabo404"><img src="https://github-readme-stats.vercel.app/api?username=birdabo404&show_icons=true&hide=stars,prs,issues,&title_color=facc15&text_color=64748b&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="birdabo404's GitHub stats" /></a>
 
-<a href="https://github.com/birdabo404" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birdabo404&langs_count=10&title_color=facc15&text_color=64748b&icon_color=ef4444&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/birdabo404" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=birdabo404&langs_count=10&title_color=facc15&text_color=64748b&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
