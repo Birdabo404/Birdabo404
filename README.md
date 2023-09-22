@@ -4,12 +4,14 @@ Hello,![hey](https://user-images.githubusercontent.com/18350557/176309783-078594
 Computer Science Student
 ----------
 
-I am a 3rd year irregular CS student and really dumb.
+> I am a 3rd year irregular CS student and really dumb.
 
 * 🌍  based in Oslo lolol i wish
 * 🧠  I like c, it's quite hard doe.
 * ⚡  Home/Documents/Hentai
 
 ### Socials
+* youtube/@birdabo404
 
-youtube/@birdabo404
+### Progress:
+- [ ] Complete learning c
