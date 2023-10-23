@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Birdabo</h1>
 <h3 align="center">Computer Science Student</h3>
 
- >I'm an irregular CS student cuz im dumb :c
+ >I'm a irregular CS student cuz im dumb :c
 
 - 🔭 I’m currently working on **nothing lol**
 
