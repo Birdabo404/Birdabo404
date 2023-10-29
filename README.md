@@ -11,7 +11,7 @@
 * youtube/@birdabo404
 
 ### Progress:
-- [ C ] 
+- [ ] c
 - [ ] py
 - [ ] java
 - [ ] finish another proj
