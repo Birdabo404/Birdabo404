@@ -6,5 +6,6 @@
 
 - $ *cd Home/Documents/Coding/Projects/Hentai*
 
-### Progress:
+### To-do:
 - [ ] c
+- [ ] py
