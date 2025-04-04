@@ -4,19 +4,19 @@
 <br>
 
  <div align="center">
- 
+   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=750&color=CBA6F7&center=true&vCenter=true&width=435&lines=I'm+always+sleepy;Codes+are+cool,+i+guess.)](https://git.io/typing-svg)
-  
+
  </div>
 <p align="right"></p>                                                                     
 <br>
   
 <!-- Github Stats -->
 <details>
-<summary><samp><b>Click me, I dare you </b></samp></summary>
+<summary><samp><b>CLICK ME</b></samp></summary>
 <h2></h2>
 
-<b> My horrible gitob stats </b>
+<b> My horrible github stats </b>
 
 <div align="center" style="margin-top: 80px;">
   <table>
