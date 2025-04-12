@@ -1,5 +1,5 @@
   <!-- Profile -->
-<b> Hello, I'm Birdabo 👋 <b>
+<b> Hello, I'm ßirdabo 👋 <b>
 <p align="left"></p>  
 <br>
 
