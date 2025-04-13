@@ -8,9 +8,7 @@
 
 <br clear="both">
 
-<h2 align="center">I'm ßirdabo 👋</h2>
-
-###
+<h1 align="center">I'm ßirdabo 👋</h1>
 
 <div align="center">
   <a href="https://www.youtube.com/@Birdabo404" target="_blank">
