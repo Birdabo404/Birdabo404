@@ -1,14 +1,16 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k1dzNvb2l4ZDdxeDRldHg1ZGF4MmJjd2todjl4a29ocjd4YXV6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif"  />
+  <img height="450" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2k1dzNvb2l4ZDdxeDRldHg1ZGF4MmJjd2todjl4a29ocjd4YXV6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbtJJPft2P7rcpbBdb/giphy.gif"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h1 align="center">I'm ßirdabo 👋</h1>
+<h2 align="center">I'm ßirdabo 👋</h2>
+
+###
 
 <div align="center">
   <a href="https://www.youtube.com/@Birdabo404" target="_blank">
@@ -18,13 +20,15 @@
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Birdabo404.Birdabo404&left_color=limegreen&right_color=dodgerblue"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Birdabo404/count.svg?"  />
 </div>
 
 ###
 
-<h2 align="left">🧑‍💻 About me</h2>
+<h3 align="left">🧑‍💻 About me</h3>
 
 ###
 
@@ -32,7 +36,7 @@
 
 ###
 
-<h2 align="left">🛠  Techstack</h2>
+<h3 align="left">🛠  Techstack</h3>
 
 ###
 
