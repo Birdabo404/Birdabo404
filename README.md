@@ -33,7 +33,7 @@
 ###
 
 <p align="left">> philippines. <br>
-  > interested in learning 🇨🇳<br>- 📚 I'm currently learning fullstack dev</p>
+  > interested in learning 🇨🇳 & 🇷🇺 <br>- 📚 I'm currently learning fullstack dev</p>
 
 
 ###
