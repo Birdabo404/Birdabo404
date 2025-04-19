@@ -28,11 +28,13 @@
 
 ###
 
-<h3 align="left">🧑‍💻 About me</h3>
+<h2 align="left">🧑‍💻 About me</h2>
 
 ###
 
-<p align="left">philippines 🇵🇭<br><br>- 📚 I'm currently learning fullstack dev</p>
+<p align="left">> philippines. <br>
+  > interested in learning 🇨🇳<br>- 📚 I'm currently learning fullstack dev</p>
+
 
 ###
 
